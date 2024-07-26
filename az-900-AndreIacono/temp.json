@@ -1,0 +1,14 @@
+"data":{
+    "securityList":{
+        "nodes":[
+            "alternateSecurityId":[{
+                "securityId":"2002349082340892",
+                "securityIdExchange":"CUSIP"
+            },{
+                "securityId":"2002349082340892",
+                "securityIdExchange":"ISIN"
+            }],
+            ]
+        ]
+    }
+}
